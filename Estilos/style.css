@@ -17,6 +17,8 @@ header{
     margin: auto;
     text-align: center;
     width: 100%;
+    margin: 0;
+    border: 0;
 }
 
 header h2{
@@ -43,11 +45,6 @@ nav article a{
     text-decoration: none;
     font-weight: bold;
     padding: 5px 15px;
-}
-
-
-div#espace{
-       padding: 120px;
 }
 
 
