@@ -2,7 +2,7 @@
 
 *{
     font-family: sans-serif;
-    margin: auto;
+    margin: 0%;
 }
 
 body{
@@ -16,6 +16,7 @@ header{
     color: white;
     margin: auto;
     text-align: center;
+    width: 100%;
 }
 
 header h2{
@@ -55,6 +56,7 @@ div#espace{
 main {
     background-color: #D1EBDF ;
     padding: 30px 40px;
+    display: block;
     margin: auto;
     min-width: 320px;
     max-width: 850px;
